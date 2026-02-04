@@ -20,10 +20,4 @@
 │── 📓 regression.ipynb
 </pre>
 
-<h2>🔍 Project Structure Explained</h2>
-
-<h3>✅ Classification Projects</h3>
-<ul>
-    <li>Problem understanding</li>
-    <li>Data preprocessing & feature engineering</li>
-    <li>Model training (Logistic Regression, Random Forest, SVM, etc.)</li>
+<b>Contact me via <a href='https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba'>Linkedin</a></b>
